@@ -19,9 +19,3 @@ Research Engineer at the [Barcelona Supercomputing Center (BSC)](https://www.bsc
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/iñigo-pikabea-727148226/)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/i_pikabea)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:inigopm@gmail.com)
