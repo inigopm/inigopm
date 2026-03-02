@@ -18,4 +18,5 @@ Research Engineer at the [Barcelona Supercomputing Center (BSC)](https://www.bsc
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Megatron-LM](https://img.shields.io/badge/Megatron--LM-76B900?logo=nvidia&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-004A81?logo=linux&logoColor=white)
